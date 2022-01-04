@@ -52,7 +52,7 @@ const ActionAreaCard = (props) => {
 
   const handleClick = () => {
     console.log(props.index);
-    navigate("/product/"+props.index);
+    navigate("/myntra-demo/product/"+props.index);
   };
 
   return (

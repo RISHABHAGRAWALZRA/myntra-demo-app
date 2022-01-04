@@ -16,7 +16,7 @@ const ButtonAppBar=()=> {
   const navigate = useNavigate();
 
   const handleClick = () => {
-    navigate('/');
+    navigate('/myntra-demo/');
   }
 
   return (
